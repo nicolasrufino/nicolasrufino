@@ -1,6 +1,6 @@
-# Hey, I'm Nicolas 👋
+# Hey, I'm Nicolas 
 
-Software developer reinventing how people interact with the world around them.
+A software developer re-inventing how people interact with the world, or at least trying.
 Building **Mapier.ai**, **Corazón**, and **MyYapa** — location-based platforms connecting people, communities, and opportunities.
 
 `CS @ UIC` · `Chicago, IL` · `English & Spanish`
