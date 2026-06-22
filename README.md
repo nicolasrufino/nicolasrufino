@@ -3,6 +3,8 @@
 A software developer re-inventing how people interact with the world, or at least trying.
 Building **Mapier.ai**, **Corazón**, and **MyYapa** — location-based platforms connecting people, communities, and opportunities.
 
+Checkout my site at (https://www.nicolasrufino.com)
+
 `CS @ UIC` · `Chicago, IL` · `English & Spanish`
 
 ---
